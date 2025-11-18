@@ -15,6 +15,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=samarthmahendra.samarthmahendra" />
 </div>
 
+
+<img width="1518" height="1662" alt="image" src="https://github.com/user-attachments/assets/147c6195-c6c1-402a-8ed2-cf24d776c712" />
+
+
 <h1 align="center">hey there 👋</h1>
 
 <h4 align="left">
