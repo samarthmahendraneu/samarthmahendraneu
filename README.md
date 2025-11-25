@@ -227,11 +227,3 @@ I skated 22.3 km in a single session!
   <sub><i>Algorithmic thinking and real-world problem solving with Python.</i></sub>
 
 
-###
-<h3 align="left">📈 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthmahendra&show_icons=true&count_private=true&theme=dracula&hide_title=false&hide_border=false" height="150" alt="stats graph" />
-</div>
