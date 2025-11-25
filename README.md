@@ -20,8 +20,6 @@
 🎯 I’m currently working on<br>
 Jobstats.fyi, a platform to visualize interview process in realtime with over 14000+ submissions and over 1500+ companies 
   
-<img width="1512" height="831" alt="Screenshot 2025-10-30 at 8 04 31 pm" src="https://github.com/user-attachments/assets/7fbfa913-cb54-4f46-bf4a-efdc14f79350" />
-
 <br>
 🤝 I’m looking to collaborate on<br>
 LLM-powered productivity tools, scalable backend infra, or real-time systems.<br><br>
