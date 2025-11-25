@@ -115,7 +115,8 @@ I skated 22.3 km in a single session!
   - CS 6120: Natural Language Processing  
   - CS 6140: Machine Learning  
   - CS 5520: Mobile Application Development  
-  - CS 5500: Foundations of Software Engineering  
+  - CS 5500: Foundations of Software Engineering
+  - CS 5600: Computer Systems
 
 - **🐍 Dayananda Sagar College of Engineering, Bangalore, India**  
   *Bachelor of Engineering (BE), Computer Science*  
