@@ -37,6 +37,10 @@ How I improved chatbot performance by 60%, or how I optimized API costs using qu
 I skated 22.3 km in a single session!
 </h4>
 
+### 🏢 Previous Work (Draup)
+My contributions during my time at Draup live on my work GitHub:
+👉 https://github.com/SamarthMahendra-Draup  
+
 <h3 align="left">🛠 Languages & Tools</h3>
 
 
