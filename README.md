@@ -17,8 +17,7 @@
 <h1 align="center">hey there 👋</h1>
 
 <h4 align="left">
-🎯 I’m currently working on<br>
-Jobstats.fyi, a platform to visualize interview process in realtime with over 14000+ submissions and over 1500+ companies 
+My expertise include, python, c++, java in domains such as Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems, 
   
 <br>
 🤝 I’m looking to collaborate on<br>
