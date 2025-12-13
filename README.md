@@ -40,6 +40,10 @@ I skated 22.3 km in a single session!
 My contributions during my time at Draup live on my work GitHub:
 👉 [https://github.com/SamarthMahendra-Draup  ](https://github.com/SamarthMahendra-Draup?tab=overview&from=2023-12-01&to=2023-12-31)
 
+
+### Main account
+My contributions during my time at Draup live on my work GitHub:
+👉 [https://github.com/SamarthMahendra  ](https://github.com/SamarthMahendra)
 <h3 align="left">🛠 Languages & Tools</h3>
 
 
