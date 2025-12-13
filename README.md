@@ -16,8 +16,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<h4 align="left">
-My expertise include, python, c++, java in domains such as Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems, 
+My expertise include programming langues such as Python, C++, Java in domains such as Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems, 
   
 <br>
 🤝 I’m looking to collaborate on<br>
@@ -34,7 +33,6 @@ How I improved chatbot performance by 60%, or how I optimized API costs using qu
 
 ⚡ Fun fact<br>
 I skated 22.3 km in a single session!
-</h4>
 
 ### 🏢 Previous Work (Draup)
 My contributions during my time at Draup live on my work GitHub:
