@@ -17,6 +17,8 @@
 <h1 align="center">hey there 👋</h1>
 
 My expertise include programming langues such as <b>Python, C++, Java</b> in domains such as <b>Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems </b>
+
+but i am also well versed in languages such as <b> Typescript, Javascript, Rust, C programming </b>
   
 <br>
 🤝 I’m looking to collaborate on<br>
