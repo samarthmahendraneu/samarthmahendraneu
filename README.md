@@ -16,7 +16,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-My expertise include programming langues such as <h4>Python, C++, Java</h4> in domains such as Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems, 
+My expertise include programming langues such as <b>Python, C++, Java</b> in domains such as <b>Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems </b>
   
 <br>
 🤝 I’m looking to collaborate on<br>
