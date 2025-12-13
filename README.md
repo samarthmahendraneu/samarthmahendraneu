@@ -15,6 +15,7 @@
 
 
 <h1 align="center">hey there 👋</h1>
+Backend & distributed systems engineer with 1.5+ years of production experience building data-intensive platforms at scale.
 
 My expertise include programming langues such as <b>Python, C++, Java</b> in domains such as <b>Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems </b>
 
