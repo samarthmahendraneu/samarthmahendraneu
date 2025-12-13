@@ -42,7 +42,6 @@ My contributions during my time at Draup live on my work GitHub:
 
 
 ### Main account
-My contributions during my time at Draup live on my work GitHub:
 👉 [https://github.com/SamarthMahendra  ](https://github.com/SamarthMahendra)
 <h3 align="left">🛠 Languages & Tools</h3>
 
