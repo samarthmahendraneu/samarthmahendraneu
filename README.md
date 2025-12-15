@@ -168,44 +168,56 @@ My contributions during my time at Draup live on my work GitHub:
   - Worked alongside clinicians from Sri Jayadeva Institute of Cardiovascular Sciences.
 ###
 
-
 <h3 align="left">🚀 Featured Projects</h3>
 
-- **📊 [JobStats - FANG Job Trends](https://github.com/SamarthMahendra/StealthProject)**  
-  Scrapes job data from 15+ platforms with stealth headers & dynamic HTML processing using LLMs; built with Celery, PostgreSQL, Redis, Prometheus, Puppeteer, and React.
+- **📊 [JobStats.fyi — Real-Time Job Market Analytics](https://github.com/SamarthMahendra/StealthProject)**  
+  Built a real-time analytics platform processing 15K+ submissions, reaching 1,000 sessions in the first 48 hours. Designed a distributed pipeline using Flask, MongoDB, Redis, Celery, and Prometheus/Grafana, with production monitoring and fault-tolerant background processing.
+
+- **🧱 ButterDB — Custom Storage Engine (C)**  
+  Implemented a key-value storage engine with on-disk B-Trees, fixed-size pages, write-ahead logging (WAL), crash recovery, and fine-grained locking. Focused on durability, concurrency control, and performance-critical storage internals.
+
+- **🗄️ User-Space Unix File System (FUSE, C)**  
+  Implemented a Unix-like file system in user space supporting core POSIX operations (read, write, mkdir, unlink, rename, chmod, stat). Designed on-disk structures including superblocks, bitmaps, inodes, and directory traversal over a disk image.
+
+- **🧵 Concurrent Key–Value Store Server (C, pthreads, TCP)**  
+  Built a multi-threaded TCP-based KV store with a listener/worker thread pool, thread-safe task queue, and monitor-based synchronization using mutexes and condition variables. Validated correctness with randomized concurrency tests.
+
+- **🐚 Unix Shell Implementation (C)**  
+  Implemented a Unix-style shell supporting pipes, I/O redirection, background execution, and conditional chaining (;, &&, ||). Built a custom parser and execution engine using fork(), exec*, waitpid(), and file descriptor manipulation.
 
 - **🎧 Live Bluetooth Silent Disco**  
-  Built real-time audio streaming over WebSockets using Python and BlackHole to broadcast system audio to multiple Bluetooth clients.
+  Built a real-time system audio broadcast tool using WebSockets and Python, streaming low-latency audio to multiple Bluetooth clients via BlackHole.
 
-- **🧠 LinkedInAssist (LLM-powered)**  
-  Chrome extension that filters LinkedIn job posts using natural language prompts with GPT-3.5 + Flask backend.
+- **🧠 LinkedInAssist — LLM-Powered Job Filter**  
+  Chrome extension that filters LinkedIn job postings using natural-language prompts. Built with GPT-based inference and a Flask backend.
 
-- **💬 Chatbot for Account Intelligence (Hackathon @ Draup)**  
-  Built with Langchain + RAG, includes cross-encoder reranking, query expansion, Redis cache, and PostgreSQL backend.
+- **💬 Account Intelligence Chatbot (Hackathon @ Draup)**  
+  Built an enterprise chatbot using RAG with LangChain, cross-encoder reranking, query expansion, Redis caching, and PostgreSQL-backed retrieval.
 
 - **📈 Unemployment vs Job Openings (Beveridge Curve)**  
-  Analyzed labor market dynamics using PyTorch and Pandas. [GitHub Link](https://github.com/SamarthMahendra/Unemployment-Rate-vs.-Job-Openings-Beveridge-Curve)
+  Analyzed labor market dynamics using Pandas and PyTorch, modeling unemployment trends against job openings.
 
-- **📚 MapReduce-style Grade Analyzer**  
-  Used Python multiprocessing for parallel analysis of student datasets — inspired by MapReduce.
+- **📚 MapReduce-Style Grade Analyzer**  
+  Implemented parallel data processing using Python multiprocessing, inspired by MapReduce-style execution.
 
 - **🧪 Breast Cancer Detection**  
-  Built models with logistic regression, GNB, and GDA for diagnosis classification using scikit-learn.
+  Built and evaluated classification models (Logistic Regression, GNB, GDA) using scikit-learn for diagnostic prediction.
 
 - **💬 Aspect-Based Sentiment Analysis**  
-  Implemented an attention-based LSTM for aspect classification in SemEval datasets using PyTorch.
+  Implemented an attention-based LSTM for aspect classification on SemEval datasets using PyTorch.
 
-- **📕 Custom Word2Vec**  
-  Built co-occurrence matrix from *Merchant of Venice* and visualized embeddings using PCA.
+- **📕 Custom Word2Vec Implementation**  
+  Built word embeddings using co-occurrence matrices and visualized semantic structure via PCA.
 
 - **🧮 Java Portfolio Manager**  
-  Designed MVC-based investment simulator with stock API integration, 100+ JUnit test cases, and charting.
+  Designed an MVC-based investment simulator with external stock APIs, 100+ JUnit tests, and performance charts.
 
 - **🚴‍♂️ Bike Rental Platform**  
-  End-to-end BlueBikes clone using React.js, Django REST, Redis, JWT, and Azure.
+  End-to-end BlueBikes-style system using React, Django REST, Redis, JWT authentication, and Azure deployment.
 
 - **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
-  Used custom image processing on cine MRI scans to analyze heart wall motion and fibrosis. Leveraged NumPy, multiprocessing, and interpolation.
+  Built a medical imaging pipeline to analyze cardiac wall motion from cine MRI scans using NumPy, multiprocessing, and interpolation.
+
 
 <h3 align="left">📜 Noteworthy Certifications</h3>
 
