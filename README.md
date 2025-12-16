@@ -179,21 +179,6 @@ My contributions during my time at Draup live on my work GitHub:
 - **💬 Account Intelligence Chatbot (Hackathon @ Draup)**  
   Built an enterprise chatbot using RAG with LangChain, cross-encoder reranking, query expansion, Redis caching, and PostgreSQL-backed retrieval.
 
-- **📈 Unemployment vs Job Openings (Beveridge Curve)**  
-  Analyzed labor market dynamics using Pandas and PyTorch, modeling unemployment trends against job openings.
-
-- **📚 MapReduce-Style Grade Analyzer**  
-  Implemented parallel data processing using Python multiprocessing, inspired by MapReduce-style execution.
-
-- **🧪 Breast Cancer Detection**  
-  Built and evaluated classification models (Logistic Regression, GNB, GDA) using scikit-learn for diagnostic prediction.
-
-- **💬 Aspect-Based Sentiment Analysis**  
-  Implemented an attention-based LSTM for aspect classification on SemEval datasets using PyTorch.
-
-- **📕 Custom Word2Vec Implementation**  
-  Built word embeddings using co-occurrence matrices and visualized semantic structure via PCA.
-
 - **🧮 Java Portfolio Manager**  
   Designed an MVC-based investment simulator with external stock APIs, 100+ JUnit tests, and performance charts.
 
@@ -204,34 +189,5 @@ My contributions during my time at Draup live on my work GitHub:
   Built a medical imaging pipeline to analyze cardiac wall motion from cine MRI scans using NumPy, multiprocessing, and interpolation.
 
 
-<h3 align="left">📜 Noteworthy Certifications</h3>
-
-- **🧠 Expert - Programming and Algorithms (CodeSignal)**  
-  Credential ID: `cm6lagnfc01ihm8i3wldt2po3`  
-  <sub><i>Mastery of advanced data structures, algorithms, and Python.</i></sub>
-
-- **🔍 Advanced Retrieval for AI with Chroma (DeepLearning.AI)**  
-  Credential ID: `e7856493-e9ca-40f3-81a2-62e86fc6267c`  
-  <sub><i>Hands-on experience with ChromaDB, cross-encoder reranking, and embedding-based RAG pipelines.</i></sub>
-
-- **🧪 Supervised ML: Regression & Classification (Stanford / DeepLearning.AI)**  
-  Credential ID: `W7RGEA3RE44U`  
-  <sub><i>In-depth foundation in ML pipelines and evaluation, taught by Andrew Ng.</i></sub>
-
-- **🧬 Advanced Learning Algorithms (Stanford / DeepLearning.AI)**  
-  Credential ID: `PC74JUPWD28G`  
-  <sub><i>Focus on deep generative models, regularization, and optimization.</i></sub>
-
-- **🌐 DOM API + JS Programming (CodeSignal)**  
-  Credential ID: `cm6po6406007ztmrk4bw7za5o`  
-  <sub><i>Strong understanding of DOM manipulation and frontend scripting fundamentals.</i></sub>
-
-- **🐍 Server-Side Web Scraping (Python + BeautifulSoup, CodeSignal)**  
-  Credential ID: `cm6n495fv00twy6hg7w0xihzf`  
-  <sub><i>Built robust scraping pipelines using Python and BS4.</i></sub>
-
-- **🧰 Mastering Data Structures & Algorithms in Python (CodeSignal)**  
-  Credential ID: `cm0adl6mm004lgpxn4gphel9o`  
-  <sub><i>Algorithmic thinking and real-world problem solving with Python.</i></sub>
 
 
