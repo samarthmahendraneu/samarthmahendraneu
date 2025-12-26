@@ -24,7 +24,7 @@ but i am also well versed in languages such as <b> Typescript, Javascript, Rust,
 
 ### 🏢 Previous Work (Draup)
 My contributions during my time at Draup live on my work GitHub:
-👉 [https://github.com/SamarthMahendra-Draup  ](https://github.com/SamarthMahendra-Draup?tab=overview&from=2023-12-01&to=2023-12-31)
+👉 [https://github.com/SamarthMahendra-Draup  ](https://github.com/SamarthMahendra-Draup?tab=overview&from=2023-12-01&to=2023-12-31) - 2022-2023
 
 
 ### Main account
