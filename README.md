@@ -155,7 +155,7 @@ My contributions during my time at Draup live on my work GitHub:
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- **📊 [JobStats.fyi — Real-Time Job Market Analytics](https://github.com/SamarthMahendra/StealthProject)**  
+- **📊 [JobStats.fyi — Real-Time Job Market Analytics]**  
   Built a real-time analytics platform processing 15K+ submissions, reaching 1,000 sessions in the first 48 hours. Designed a distributed pipeline using Flask, MongoDB, Redis, Celery, and Prometheus/Grafana, with production monitoring and fault-tolerant background processing.
 
 - **🧱 ButterDB — Custom Storage Engine (C)**  
