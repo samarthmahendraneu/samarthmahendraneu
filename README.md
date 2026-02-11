@@ -155,35 +155,51 @@ My contributions during my time at Draup live on my work GitHub:
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- **📊 [JobStats.fyi — Real-Time Job Market Analytics]**  
-  Built a real-time analytics platform processing 15K+ submissions, reaching 1,000 sessions in the first 48 hours. Designed a distributed pipeline using Flask, MongoDB, Redis, Celery, and Prometheus/Grafana, with production monitoring and fault-tolerant background processing.
+<h3 align="left">🚀 Selected Projects</h3>
 
-- **🧱 ButterDB — Custom Storage Engine (C)**  
-  Implemented a key-value storage engine with on-disk B-Trees, fixed-size pages, write-ahead logging (WAL), crash recovery, and fine-grained locking. Focused on durability, concurrency control, and performance-critical storage internals.
+- **🧱 B-Tree Storage Engine (C++)**  
+  Implemented an on-disk B-Tree–based key–value storage engine with fixed-size pages,
+  write-ahead logging (WAL), crash recovery, and fine-grained locking.  
+  *Focus:* storage internals, durability, correctness, concurrency.
 
-- **🗄️ User-Space Unix File System (FUSE, C)**  
-  Implemented a Unix-like file system in user space supporting core POSIX operations (read, write, mkdir, unlink, rename, chmod, stat). Designed on-disk structures including superblocks, bitmaps, inodes, and directory traversal over a disk image.
+- **🗄️ Lakehouse Metadata Pruning**  
+  Designed a hierarchical metadata index enabling efficient file pruning for
+  range queries over large lakehouse-style datasets.  
+  Metadata-over-metadata approach inspired by Hudi/Iceberg.  
+  *Focus:* query planning, pruning correctness, parallel traversal.
+  
+- **🧵 Orion — Dependency-Aware Parallel Task Runtime (C++17)**  
+  Built a Ray-style task execution runtime modeling computation as a DAG.  
+  Implemented readiness detection, worker scheduling, and concurrent execution
+  using mutexes, condition variables, and thread pools.  
+  *Focus:* task graphs, scheduling, synchronization, runtime design.
+  
+- **🧮 Stock Market Simulation System (Java, MVC)**  
+  Designed a modular stock trading simulator using MVC and interface-driven design.  
+  Implemented portfolio valuation, trading strategies, and full JUnit test coverage.  
+  *Focus:* software design, correctness, extensibility.
 
-- **🧵 Concurrent Key–Value Store Server (C, pthreads, TCP)**  
-  Built a multi-threaded TCP-based KV store with a listener/worker thread pool, thread-safe task queue, and monitor-based synchronization using mutexes and condition variables. Validated correctness with randomized concurrency tests.
+- **📊 Open Jobs Analytics Platform (Backend Infra + Monitoring)**  
+  Built a distributed ingestion and analytics pipeline using Celery, Redis, and MongoDB.  
+  Added Prometheus/Grafana dashboards to track ingestion lag, failures, and throughput.  
+  *Focus:* data pipelines, reliability, observability.
 
-- **🐚 Unix Shell Implementation (C)**  
-  Implemented a Unix-style shell supporting pipes, I/O redirection, background execution, and conditional chaining (;, &&, ||). Built a custom parser and execution engine using fork(), exec*, waitpid(), and file descriptor manipulation.
+- **📞 Real-Time AI Chat + Voice Assistant Platform**  
+  Built a real-time AI assistant supporting chat and voice calls via FastAPI,
+  WebSockets, Twilio, and streaming LLM APIs.  
+  Used async pipelines and background workers for low-latency interaction.  
+  *Focus:* async systems, real-time I/O, agent orchestration.
 
-- **🎧 Live Bluetooth Silent Disco**  
-  Built a real-time system audio broadcast tool using WebSockets and Python, streaming low-latency audio to multiple Bluetooth clients via BlackHole.
+- **💬 StackOverflow-Style Q&A Platform (Full Stack)**  
+  Built a full-stack Q&A platform with React, Node.js, and MongoDB.  
+  Implemented voting, commenting, reputation systems, and REST APIs.  
+  *Focus:* backend architecture, API design, maintainability.
 
-- **🧠 LinkedInAssist — LLM-Powered Job Filter**  
-  Chrome extension that filters LinkedIn job postings using natural-language prompts. Built with GPT-based inference and a Flask backend.
+- **🗂️ User-Space Unix File System (FUSE, C)**  
+  Implemented a Unix-like file system in user space supporting core POSIX operations.  
+  Designed on-disk structures including superblocks, inodes, bitmaps, and directories.  
+  *Focus:* OS fundamentals, file systems, low-level I/O.
 
-- **💬 Account Intelligence Chatbot (Hackathon @ Draup)**  
-  Built an enterprise chatbot using RAG with LangChain, cross-encoder reranking, query expansion, Redis caching, and PostgreSQL-backed retrieval.
-
-- **🧮 Java Portfolio Manager**  
-  Designed an MVC-based investment simulator with external stock APIs, 100+ JUnit tests, and performance charts.
-
-- **🚴‍♂️ Bike Rental Platform**  
-  End-to-end BlueBikes-style system using React, Django REST, Redis, JWT authentication, and Azure deployment.
 
 - **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
   Built a medical imaging pipeline to analyze cardiac wall motion from cine MRI scans using NumPy, multiprocessing, and interpolation.
