@@ -39,7 +39,7 @@ My contributions during my time at Draup live on my work GitHub:
   write-ahead logging (WAL), crash recovery, and fine-grained locking.  
   *Focus:* storage internals, durability, correctness, concurrency.
 
-- **🗄️ Lakehouse Metadata Pruning**  
+- **🗄️ Data Lakehouse Metadata Pruning**  
   Designed a hierarchical metadata index enabling efficient file pruning for
   range queries over large lakehouse-style datasets.  
   Metadata-over-metadata approach inspired by Hudi/Iceberg.  
