@@ -31,6 +31,57 @@ My contributions during my time at Draup live on my work GitHub:
 👉 [https://github.com/SamarthMahendra  ](https://github.com/SamarthMahendra)
 <h3 align="left">🛠 Languages & Tools</h3>
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+
+- **🧱 B-Tree Storage Engine (C++)**  
+  Implemented an on-disk B-Tree–based key–value storage engine with fixed-size pages,
+  write-ahead logging (WAL), crash recovery, and fine-grained locking.  
+  *Focus:* storage internals, durability, correctness, concurrency.
+
+- **🗄️ Lakehouse Metadata Pruning**  
+  Designed a hierarchical metadata index enabling efficient file pruning for
+  range queries over large lakehouse-style datasets.  
+  Metadata-over-metadata approach inspired by Hudi/Iceberg.  
+  *Focus:* query planning, pruning correctness, parallel traversal.
+  
+- **🧵 Orion — Dependency-Aware Parallel Task Runtime (C++17)**  
+  Built a Ray-style task execution runtime modeling computation as a DAG.  
+  Implemented readiness detection, worker scheduling, and concurrent execution
+  using mutexes, condition variables, and thread pools.  
+  *Focus:* task graphs, scheduling, synchronization, runtime design.
+  
+- **🧮 Stock Market Simulation System (Java, MVC)**  
+  Designed a modular stock trading simulator using MVC and interface-driven design.  
+  Implemented portfolio valuation, trading strategies, and full JUnit test coverage.  
+  *Focus:* software design, correctness, extensibility.
+
+- **📊 Open Jobs Analytics Platform (Backend Infra + Monitoring)**  
+  Built a distributed ingestion and analytics pipeline using Celery, Redis, and MongoDB.  
+  Added Prometheus/Grafana dashboards to track ingestion lag, failures, and throughput.  
+  *Focus:* data pipelines, reliability, observability.
+
+- **📞 Real-Time AI Chat + Voice Assistant Platform**  
+  Built a real-time AI assistant supporting chat and voice calls via FastAPI,
+  WebSockets, Twilio, and streaming LLM APIs.  
+  Used async pipelines and background workers for low-latency interaction.  
+  *Focus:* async systems, real-time I/O, agent orchestration.
+
+- **💬 StackOverflow-Style Q&A Platform (Full Stack)**  
+  Built a full-stack Q&A platform with React, Node.js, and MongoDB.  
+  Implemented voting, commenting, reputation systems, and REST APIs.  
+  *Focus:* backend architecture, API design, maintainability.
+
+- **🗂️ User-Space Unix File System (FUSE, C)**  
+  Implemented a Unix-like file system in user space supporting core POSIX operations.  
+  Designed on-disk structures including superblocks, inodes, bitmaps, and directories.  
+  *Focus:* OS fundamentals, file systems, low-level I/O.
+
+
+- **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
+  Built a medical imaging pipeline to analyze cardiac wall motion from cine MRI scans using NumPy, multiprocessing, and interpolation.
+
+
 
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -153,56 +204,6 @@ My contributions during my time at Draup live on my work GitHub:
   - Worked alongside clinicians from Sri Jayadeva Institute of Cardiovascular Sciences.
 ###
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-<h3 align="left">🚀 Selected Projects</h3>
-
-- **🧱 B-Tree Storage Engine (C++)**  
-  Implemented an on-disk B-Tree–based key–value storage engine with fixed-size pages,
-  write-ahead logging (WAL), crash recovery, and fine-grained locking.  
-  *Focus:* storage internals, durability, correctness, concurrency.
-
-- **🗄️ Lakehouse Metadata Pruning**  
-  Designed a hierarchical metadata index enabling efficient file pruning for
-  range queries over large lakehouse-style datasets.  
-  Metadata-over-metadata approach inspired by Hudi/Iceberg.  
-  *Focus:* query planning, pruning correctness, parallel traversal.
-  
-- **🧵 Orion — Dependency-Aware Parallel Task Runtime (C++17)**  
-  Built a Ray-style task execution runtime modeling computation as a DAG.  
-  Implemented readiness detection, worker scheduling, and concurrent execution
-  using mutexes, condition variables, and thread pools.  
-  *Focus:* task graphs, scheduling, synchronization, runtime design.
-  
-- **🧮 Stock Market Simulation System (Java, MVC)**  
-  Designed a modular stock trading simulator using MVC and interface-driven design.  
-  Implemented portfolio valuation, trading strategies, and full JUnit test coverage.  
-  *Focus:* software design, correctness, extensibility.
-
-- **📊 Open Jobs Analytics Platform (Backend Infra + Monitoring)**  
-  Built a distributed ingestion and analytics pipeline using Celery, Redis, and MongoDB.  
-  Added Prometheus/Grafana dashboards to track ingestion lag, failures, and throughput.  
-  *Focus:* data pipelines, reliability, observability.
-
-- **📞 Real-Time AI Chat + Voice Assistant Platform**  
-  Built a real-time AI assistant supporting chat and voice calls via FastAPI,
-  WebSockets, Twilio, and streaming LLM APIs.  
-  Used async pipelines and background workers for low-latency interaction.  
-  *Focus:* async systems, real-time I/O, agent orchestration.
-
-- **💬 StackOverflow-Style Q&A Platform (Full Stack)**  
-  Built a full-stack Q&A platform with React, Node.js, and MongoDB.  
-  Implemented voting, commenting, reputation systems, and REST APIs.  
-  *Focus:* backend architecture, API design, maintainability.
-
-- **🗂️ User-Space Unix File System (FUSE, C)**  
-  Implemented a Unix-like file system in user space supporting core POSIX operations.  
-  Designed on-disk structures including superblocks, inodes, bitmaps, and directories.  
-  *Focus:* OS fundamentals, file systems, low-level I/O.
-
-
-- **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
-  Built a medical imaging pipeline to analyze cardiac wall motion from cine MRI scans using NumPy, multiprocessing, and interpolation.
 
 
 
