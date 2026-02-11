@@ -29,7 +29,7 @@ My contributions during my time at Draup live on my work GitHub:
 
 ### Main account
 👉 [https://github.com/SamarthMahendra  ](https://github.com/SamarthMahendra)
-<h3 align="left">🛠 Languages & Tools</h3>
+
 
 <h3 align="left">🚀 Featured Projects</h3>
 
@@ -81,7 +81,7 @@ My contributions during my time at Draup live on my work GitHub:
 - **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
   Built a medical imaging pipeline to analyze cardiac wall motion from cine MRI scans using NumPy, multiprocessing, and interpolation.
 
-
+<h3 align="left">🛠 Languages & Tools</h3>
 
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
