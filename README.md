@@ -39,18 +39,16 @@ My contributions during my time at Draup live on my work GitHub:
   write-ahead logging (WAL), crash recovery, and fine-grained locking.  
   *Focus:* storage internals, durability, correctness, concurrency.
 
-- **🗄️ Data Lakehouse Metadata Pruning (C++)**  
-  Designed a hierarchical metadata index enabling efficient file pruning for
-  range queries over large lakehouse-style datasets.  
-  Metadata-over-metadata approach inspired by Hudi/Iceberg.  
-  *Focus:* query planning, pruning correctness, parallel traversal.
-  
 - **🧵 Orion — Dependency-Aware Parallel Task Runtime (C++17)**  
   Built a Ray-style task execution runtime modeling computation as a DAG.  
   Implemented readiness detection, worker scheduling, and concurrent execution
   using mutexes, condition variables, and thread pools.  
   *Focus:* task graphs, scheduling, synchronization, runtime design.
-  
+
+- **🧱 LSM-Tree-Engine**
+  This project implements storage engine using LSM + SStable along with sparse index and bloom filter
+  * Focus:* storage internals, durability, correctness, concurrency.
+
 - **🧮 Stock Market Simulation System (Java, MVC)**  
   Designed a modular stock trading simulator using MVC and interface-driven design.  
   Implemented portfolio valuation, trading strategies, and full JUnit test coverage.  
@@ -76,6 +74,12 @@ My contributions during my time at Draup live on my work GitHub:
   Implemented a Unix-like file system in user space supporting core POSIX operations.  
   Designed on-disk structures including superblocks, inodes, bitmaps, and directories.  
   *Focus:* OS fundamentals, file systems, low-level I/O.
+
+- **🗄️ Data Lakehouse Metadata Pruning (C++)**  
+  Designed a hierarchical metadata index enabling efficient file pruning for
+  range queries over large lakehouse-style datasets.  
+  Metadata-over-metadata approach inspired by Hudi/Iceberg.  
+  *Focus:* query planning, pruning correctness, parallel traversal.
 
 
 - **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
