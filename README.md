@@ -82,8 +82,6 @@ My contributions during my time at Draup live on my work GitHub:
   *Focus:* query planning, pruning correctness, parallel traversal.
 
 
-- **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
-  Built a medical imaging pipeline to analyze cardiac wall motion from cine MRI scans using NumPy, multiprocessing, and interpolation.
 
 <h3 align="left">🛠 Languages & Tools</h3>
 
@@ -197,15 +195,6 @@ My contributions during my time at Draup live on my work GitHub:
   - Implemented caching for image requests to boost performance.  
   - Created automated DB scripts to streamline data workflows.
 
-- **🔬 Research Assistant (Patent Co-Inventor)**  
-  *Dayananda Sagar College of Engineering · Part-time*  
-  *Nov 2021 – Sep 2023 · 1 yr 11 mos · Bengaluru (Hybrid)*  
-  - **Project**: *Myocardium Wall Motion & Thickness Mapping (Patent Pending)*  
-    App No: 202341086278 (India)  
-  - Developed novel image processing techniques for MRI cine scans.  
-  - Built algorithms for myocardium thickness + fibrosis mapping during cardiac cycles.  
-  - Optimized using NumPy, CuPy (GPU), multiprocessing with ThreadPoolExecutor.  
-  - Worked alongside clinicians from Sri Jayadeva Institute of Cardiovascular Sciences.
 ###
 
 
