@@ -17,7 +17,7 @@
 <h1 align="center">hey there 👋</h1>
 Backend & distributed systems engineer with 1.5+ years of production experience building data-intensive platforms at scale.
 
-My expertise include programming langues such as <b>Python, C++, Java</b> in domains such as <b>Backend, Databases, Data Intensive Systems, Distributed systems, Low level systems, Devops </b>
+My expertise include programming langues such as <b>Python, C++, Java</b> Typescriptin domains such as <b>Backend, Databases, Data Intensive Systems, Fullstack, Distributed systems, Low level systems, Devops </b>
 
 but i am also well versed in languages such as <b> Typescript, Javascript, Rust, C programming </b>
   
